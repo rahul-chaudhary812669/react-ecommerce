@@ -87,13 +87,3 @@ ecommerce-react/
 - **Performance considerations** - Understanding how React optimizes rendering and updates
 - **Developer tools** - Using Vite for fast development and modern build processes
 
-
-
-
-
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
